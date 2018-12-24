@@ -15,7 +15,7 @@
 // Function prototypes
 char firstRepeatingChar(const std::string& input);
 
-// Start of main
+// Start of main function
 int main()
 {
 	std::cout << firstRepeatingChar("hello") << std::endl;	// prints 'l'
